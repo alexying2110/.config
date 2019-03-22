@@ -1,0 +1,142 @@
+[03/20/19, 15:19:51:542] info: ╔══════════════════════════════════════════════════════════════════════════════════╗
+[03/20/19, 15:19:51:542] info: ║      Slack 3.3.8, linux 5.0.2-arch1-1-ARCH on x64 at 03/20/19, 15:19:51:541      ║
+[03/20/19, 15:19:51:542] info: ╚══════════════════════════════════════════════════════════════════════════════════╝
+[03/20/19, 15:19:51:604] info: Initializing local storage instance at path: /home/lofatdairy/.config/Slack/local-settings.json
+[03/20/19, 15:19:51:866] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/20/19, 15:19:51:870] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/20/19, 15:19:52:657] info: Store: SET_NETWORK_STATUS online
+[03/20/19, 15:19:52:659] info: Store: MAIN_WINDOW_SHOWN
+[03/20/19, 15:19:52:668] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[03/20/19, 15:23:00:877] info: ╔══════════════════════════════════════════════════════════════════════════════════╗
+[03/20/19, 15:23:00:877] info: ║      Slack 3.3.8, linux 5.0.2-arch1-1-ARCH on x64 at 03/20/19, 15:23:00:874      ║
+[03/20/19, 15:23:00:877] info: ╚══════════════════════════════════════════════════════════════════════════════════╝
+[03/20/19, 15:23:00:934] info: Initializing local storage instance at path: /home/lofatdairy/.config/Slack/local-settings.json
+[03/20/19, 15:23:01:179] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/20/19, 15:23:01:182] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/20/19, 15:23:01:736] info: Store: SET_NETWORK_STATUS online
+[03/20/19, 15:23:01:737] info: Store: MAIN_WINDOW_SHOWN
+[03/20/19, 15:23:01:745] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[03/20/19, 15:23:26:459] info: ╔══════════════════════════════════════════════════════════════════════════════════╗
+[03/20/19, 15:23:26:460] info: ║      Slack 3.3.8, linux 5.0.2-arch1-1-ARCH on x64 at 03/20/19, 15:23:26:458      ║
+[03/20/19, 15:23:26:460] info: ╚══════════════════════════════════════════════════════════════════════════════════╝
+[03/20/19, 15:23:26:519] info: Initializing local storage instance at path: /home/lofatdairy/.config/Slack/local-settings.json
+[03/20/19, 15:23:26:782] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/20/19, 15:23:26:784] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/20/19, 15:23:27:574] info: Store: SET_NETWORK_STATUS online
+[03/20/19, 15:23:27:576] info: Store: MAIN_WINDOW_SHOWN
+[03/20/19, 15:23:27:583] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[03/20/19, 15:28:04:982] info: ╔══════════════════════════════════════════════════════════════════════════════════╗
+[03/20/19, 15:28:04:982] info: ║      Slack 3.3.8, linux 5.0.2-arch1-1-ARCH on x64 at 03/20/19, 15:28:04:979      ║
+[03/20/19, 15:28:04:982] info: ╚══════════════════════════════════════════════════════════════════════════════════╝
+[03/20/19, 15:28:05:039] info: Initializing local storage instance at path: /home/lofatdairy/.config/Slack/local-settings.json
+[03/20/19, 15:28:05:302] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/20/19, 15:28:05:305] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/20/19, 15:28:05:868] info: Store: SET_NETWORK_STATUS online
+[03/20/19, 15:28:05:868] info: Store: MAIN_WINDOW_SHOWN
+[03/20/19, 15:28:05:877] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[03/20/19, 15:31:27:002] info: ╔══════════════════════════════════════════════════════════════════════════════════╗
+[03/20/19, 15:31:27:002] info: ║      Slack 3.3.8, linux 5.0.2-arch1-1-ARCH on x64 at 03/20/19, 15:31:27:001      ║
+[03/20/19, 15:31:27:002] info: ╚══════════════════════════════════════════════════════════════════════════════════╝
+[03/20/19, 15:31:27:061] info: Initializing local storage instance at path: /home/lofatdairy/.config/Slack/local-settings.json
+[03/20/19, 15:31:27:341] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/20/19, 15:31:27:344] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/20/19, 15:31:28:036] info: Store: SET_NETWORK_STATUS online
+[03/20/19, 15:31:28:036] info: Store: MAIN_WINDOW_SHOWN
+[03/20/19, 15:31:28:046] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[03/20/19, 15:45:25:558] info: ╔══════════════════════════════════════════════════════════════════════════════════╗
+[03/20/19, 15:45:25:559] info: ║      Slack 3.3.8, linux 5.0.2-arch1-1-ARCH on x64 at 03/20/19, 15:45:25:556      ║
+[03/20/19, 15:45:25:559] info: ╚══════════════════════════════════════════════════════════════════════════════════╝
+[03/20/19, 15:45:25:617] info: Initializing local storage instance at path: /home/lofatdairy/.config/Slack/local-settings.json
+[03/20/19, 15:45:25:878] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/20/19, 15:45:25:879] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/20/19, 15:45:26:600] info: Store: SET_NETWORK_STATUS online
+[03/20/19, 15:45:26:601] info: Store: MAIN_WINDOW_SHOWN
+[03/20/19, 15:45:26:610] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[03/20/19, 15:48:53:630] info: ╔══════════════════════════════════════════════════════════════════════════════════╗
+[03/20/19, 15:48:53:630] info: ║      Slack 3.3.8, linux 5.0.2-arch1-1-ARCH on x64 at 03/20/19, 15:48:53:628      ║
+[03/20/19, 15:48:53:630] info: ╚══════════════════════════════════════════════════════════════════════════════════╝
+[03/20/19, 15:48:53:689] info: Initializing local storage instance at path: /home/lofatdairy/.config/Slack/local-settings.json
+[03/20/19, 15:48:53:871] info: Store: ADD_NEW_TEAM
+{
+  "id": "UC9HLBR9T",
+  "team_id": "TC96GGSUU"
+}
+[03/20/19, 15:48:53:980] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/20/19, 15:48:53:981] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/20/19, 15:48:53:985] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "unloaded",
+  "teamId": "TC96GGSUU"
+}
+[03/20/19, 15:48:54:443] info: Store: SET_NETWORK_STATUS online
+[03/20/19, 15:48:54:443] info: Store: MAIN_WINDOW_SHOWN
+[03/21/19, 15:07:33:409] info: ╔══════════════════════════════════════════════════════════════════════════════════╗
+[03/21/19, 15:07:33:410] info: ║      Slack 3.3.8, linux 5.0.2-arch1-1-ARCH on x64 at 03/21/19, 15:07:33:407      ║
+[03/21/19, 15:07:33:410] info: ╚══════════════════════════════════════════════════════════════════════════════════╝
+[03/21/19, 15:07:33:467] info: Initializing local storage instance at path: /home/lofatdairy/.config/Slack/local-settings.json
+[03/21/19, 15:07:33:873] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/21/19, 15:07:33:899] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/21/19, 15:07:34:639] info: Store: SET_NETWORK_STATUS online
+[03/21/19, 15:07:36:155] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "TC96GGSUU"
+}
+[03/21/19, 15:07:36:339] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "TC96GGSUU"
+}
+[03/21/19, 15:07:36:352] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T1U05CY00"
+}
+[03/21/19, 15:07:36:355] info: Store: MAIN_WINDOW_SHOWN
+[03/21/19, 19:09:22:095] info: ╔══════════════════════════════════════════════════════════════════════════════════╗
+[03/21/19, 19:09:22:095] info: ║      Slack 3.3.8, linux 5.0.2-arch1-1-ARCH on x64 at 03/21/19, 19:09:22:093      ║
+[03/21/19, 19:09:22:095] info: ╚══════════════════════════════════════════════════════════════════════════════════╝
+[03/21/19, 19:09:22:155] info: Initializing local storage instance at path: /home/lofatdairy/.config/Slack/local-settings.json
+[03/21/19, 19:09:22:578] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/21/19, 19:09:22:616] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/21/19, 19:09:23:061] info: Store: SET_NETWORK_STATUS online
+[03/21/19, 19:09:24:722] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T1U05CY00"
+}
+[03/21/19, 19:09:24:739] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC96GGSUU"
+}
+[03/21/19, 19:09:24:743] info: Store: MAIN_WINDOW_SHOWN

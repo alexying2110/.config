@@ -561,4 +561,7 @@ end)
 
 client.connect_signal("focus", function(c) c.border_color = beautiful.border_focus end)
 client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_normal end)
+
+-- Keyboard repeat rate
+os.execute("xset r rate 150 60")
 -- }}}
